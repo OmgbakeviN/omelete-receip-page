@@ -36,7 +36,7 @@ this project is to build a simple Omelette recipe page.
 ### Links
 
 - Solution URL: (https://github.com/OmgbakeviN/omelete-receip-page.git)
-- Live Site URL: [Add live site URL here](https://omelete-page.netlify.app/)
+- Live Site URL: (https://omelete-page.netlify.app/)
 
 ## My process
 
