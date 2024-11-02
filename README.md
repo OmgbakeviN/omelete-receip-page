@@ -40,7 +40,7 @@ this project is to build a simple Omelette recipe page.
 
 ## My process
 
-I started br creating the html structure and from there i added the various text and images. know, i added the css the by step starting from he top going down bottom.
+I started by creating the html structure and from there i added the various text and images. know, i added the css the by step starting from he top going down bottom.
 ### Built with
 
 - Semantic HTML5 markup
@@ -75,7 +75,7 @@ i'll try to learn how to identify specific eleents in a css like rows or columns
 
 ### Useful resources
 
-- [Example resource 1](https://chatgpt.com) - This helped me:
+- (https://chatgpt.com) - This helped me:
   -learn how to style the css for the unordered and ordered list
   -learn how to  tag specific elements in the html part 
   -how to set ub bottom borders in some parts
@@ -89,4 +89,4 @@ for these reasons. I really liked this pattern and will use it going forward.
 
 ## Acknowledgments
 
-Tp my dear MUM 
+To my dear MUM 
